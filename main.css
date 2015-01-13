@@ -1,0 +1,28 @@
+body {
+  background-color:whitesmoke;
+}
+
+#grid {
+  font-size: 0;
+}
+
+div {
+  display: inline-block;
+  width: 150px;
+  border: solid white 5px;
+  background-color:black;
+  text-align:center;
+  margin:5px;
+  padding-top:25px;
+  padding-bottom:25px;
+}
+
+h2 {
+  margin:0;
+  padding:0;
+  font-size:30px;
+  font-family:"Helvetica Neue";
+  position:relative;
+  color:white;
+}
+
