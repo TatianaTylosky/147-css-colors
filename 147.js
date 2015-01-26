@@ -160,5 +160,10 @@ window.onload = function() {
     console.log(grid);
     grid.appendChild(newdiv);
     console.log ( 'added div' );
+
+    //$("#grid").html( $("<div><h2>{{ name }}</h2></div>").template(
+      //{
+        //name: "periwinkle"
+    //});
   }
 }
